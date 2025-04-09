@@ -207,4 +207,4 @@ Acesso do heatmap no excel: [Heatmap](https://unbbr-my.sharepoint.com/:x:/g/pers
 
 | Versão | Data       | Descrição                   | Autor             | Revisor         |
 |--------|------------|-----------------------------|-------------------|-----------------|
-| 1.0    | 08/04/2025 | Criação da pagina do heatmap           | João Pedro Costa | Julia Gabriela |
+| 1.0    | 08/04/2025 | Criação da pagina do heatmap           | [João Pedro Costa](https://github.com/johnaopedro) | [Julia Gabriela](https://github.com/JuliaGabP) |
