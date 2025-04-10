@@ -10,8 +10,8 @@ Ao se aproximar do final da entrega um cronograma com os dados atualizados de ac
 
 | Atividade                                     | Período de desenvolvimento 	| Responsável               	| Revisão                  	| Revisor         	|
 |-----------------------------------------------|----------------------------	|---------------------------	|--------------------------	|-----------------	|
-|   Escolha do site                             | Início: 08/04 Fim: 11/04    | TODOS                      | Início: 01/04 Fim: 01/04 	| TODOS 	          |
-|   Possíveis sites                             | Início: 08/04 Fim: 11/04    | Gabriel                    | Início: 12/04 Fim: 13/04   | João Vítor       |
+|   Escolha do aplicativo                             | Início: 08/04 Fim: 11/04    | TODOS                      | Início: 01/04 Fim: 01/04 	| TODOS 	          |
+|   Possíveis aplicativos                             | Início: 08/04 Fim: 11/04    | Gabriel                    | Início: 12/04 Fim: 13/04   | João Vítor       |
 |   Sobre aplicativo escolhido                  | Início: 08/04 Fim: 11/04    | Amanda                     | Início: 12/04 Fim: 13/04   | Gabriel          |
 |   Cronograma                                  | Início: 08/04 Fim: 09/04    | Julia                      | Início: 09/04 Fim: 10/04   | Ryan            	|
 |   Cronograma ocorrido                         | Início: 11/04 Fim: 12/04    | Julia                      | Início: 12/04 Fim: 13/04   | João Pedro      	|
@@ -24,6 +24,8 @@ Ao se aproximar do final da entrega um cronograma com os dados atualizados de ac
 |   Rich Picture                               	| Início: 03/04 Fim: 06/04    | TODOS                      | Início: 07/04 Fim: 07/04   | TODOS           	|
 |   Correção após apresentação                 	| Início: 15/04 Fim: 16/04    | TODOS                      | Início: 16/04 Fim: 16/04   | TODOS           	|
 |   Inspeção                                  	| Início: 14/04 Fim: 14/04    | TODOS                      | Início: 14/04 Fim: 14/04   | TODOS           	|
+|   Definir Métodos de Elicitação             	| Início: 11/04 Fim: 11/04    | TODOS                      | Início: 12/04 Fim: 12/04   | TODOS           	|
+|   Métodos de Elicitação                    	| Início: 11/04 Fim: 12/04    | Ryan                      | Início: 12/04 Fim: 12/04   | João Vitor        	|
 
 <center>
  Autor(a): <a href="https://github.com/JuliaGabP" target = "_blank">Julia Gabriela</a></h6>
@@ -36,3 +38,4 @@ Ao se aproximar do final da entrega um cronograma com os dados atualizados de ac
 | Versão |    Data    |      Descrição       |       Autor(es)       |     Revisor(es)     |
 | :-----:| :--------: | :------------------: | :-------------------: | :-----------------: |
 |  1.0   | 09/04/2025 | Cronograma Planejado | [Julia Gabriela](https://github.com/JuliaGabP) | [Ryan](https://github.com/RA-Salles)|
+|  1.1   | 10/04/2025 | Correção de termos, e adição de atividade | [Julia Gabriela](https://github.com/JuliaGabP) | [Ryan](https://github.com/RA-Salles)|
