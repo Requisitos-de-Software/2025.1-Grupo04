@@ -1,6 +1,6 @@
 # Carteira de Trabalho Digital
 
-Repositório destinado à disciplina de Requisitos de Software da Universidade de Brasília, lecionado pelo professor André Barros, sobre os requisitos do aplicativo [**Carteira de Trabalho Digital**](https://www.gov.br/pt-br/temas/carteira-de-trabalho-digital). Neste documento está o armazenamento e a apresentação de artefatos e processos desenvolvidos na disciplina.
+Repositório do Grupo 4 destinado à disciplina de Requisitos de Software da Universidade de Brasília, lecionado pelo professor André Barros, sobre os requisitos do aplicativo [**Carteira de Trabalho Digital**](https://www.gov.br/pt-br/temas/carteira-de-trabalho-digital). Neste documento estão o armazenamento e a apresentação dos artefatos e processos desenvolvidos na disciplina.
 
 # Equipe
 
